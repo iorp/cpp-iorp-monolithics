@@ -13,7 +13,7 @@ With that said, i'd really appreciate any hint that could shed some light to the
 I am using OpenGL along with GLFW for window management and GLEW for handling OpenGL extensions. The image is loaded using the `stb_image` library. Below is a summary of the relevant code in `main.cpp`:
 
 
-See it in github  [Rendering without camera](https://github.com/iorp/cpp-iorp-monolithics/blob/main/Projects/IorpMonolithics0/src/textures/texture_png_tiled0.main.cpp).
+See it in github  [Rendering with camera (aspect ratio error)](https://github.com/iorp/cpp-iorp-monolithics/blob/main/Projects/IorpMonolithics0/src/textures/texture_png_tiled0.main.cpp).
 
 
 ```cpp
